@@ -1,0 +1,3 @@
+#GlassFish 3
+#Fri May 25 14:44:46 CEST 2018
+org.eclipse.jst.jee.server\:283705=D\:\\Piotr\\Dokumenty\\PROZ\\glassfish4\\glassfish\\domains\\domain1\\eclipseApps\\283705
